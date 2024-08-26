@@ -21,14 +21,6 @@ Project Structure:
 - **Logging**: Logs task completion with user ID and timestamp.
 - **Clustered Environment**: Utilizes Node.js cluster module to handle multiple workers.
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or above)
-- Redis (used for task queuing and rate limiting)
-- npm (Node Package Manager)
-- 
 <b>Contributing</b>
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
